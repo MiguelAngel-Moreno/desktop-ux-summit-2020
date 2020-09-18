@@ -5,7 +5,7 @@ Code from the presentation at the "Desktop UX Summit 2020" organized by Embarcad
 
 Full code repository will be available on Monday, September 21.
 
-Please visit this repository again on this date.
+Please visit this repository again on that date.
 
 Thank you.
 
